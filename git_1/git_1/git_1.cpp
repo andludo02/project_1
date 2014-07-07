@@ -12,6 +12,7 @@ int _tmain(int argc, _TCHAR* argv[])
 	
 	cout << "Hello World" ; 
 	cout << "new branch";
+	cout << "branch 2";
 	system ("pause");
 	return 0;
 }
